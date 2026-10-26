@@ -1,5 +1,5 @@
 """
-Bot de paper trading crypto — test de 30 de zile, 100 EUR virtuali.
+Bot de paper trading crypto — test de 30 de zile, 1000 EUR virtuali.
 
 Rulează la fiecare 15 minute (GitHub Actions). La fiecare rulare:
   1. Descarcă lumânările de 15 min de pe API-ul public Kraken (fără cont, fără chei).
@@ -31,7 +31,7 @@ import urllib.request
 from datetime import datetime, timezone
 
 # ---------------------------------------------------------------- configurare
-START_CAPITAL_EUR = 100.0
+START_CAPITAL_EUR = 1000.0
 TEST_DAYS = 30
 PAIRS = {"BTC": "XBTEUR", "ETH": "ETHEUR"}   # alocare egală
 INTERVAL_MIN = 15

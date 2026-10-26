@@ -8,7 +8,7 @@
   },
   "pairs": {
     "BTC": {
-      "cash": 50.0,
+      "cash": 500.0,
       "qty": 0.0,
       "entry": null,
       "stop": null,
@@ -16,7 +16,7 @@
       "last_ts": 1792994400
     },
     "ETH": {
-      "cash": 50.0,
+      "cash": 500.0,
       "qty": 0.0,
       "entry": null,
       "stop": null,

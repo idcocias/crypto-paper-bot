@@ -1,6 +1,6 @@
 # Bot paper trading crypto — test 30 de zile
 
-Simulare cu **100 € virtuali** pe BTC și ETH (contra EUR), pe prețuri reale de la Kraken.
+Simulare cu **1000 € virtuali** pe BTC și ETH (contra EUR), pe prețuri reale de la Kraken.
 **Nu plasează nicio tranzacție reală** și nu are acces la niciun cont: citește doar prețuri publice.
 
 Rezultatul curent se vede în **[RAPORT.md](RAPORT.md)**, actualizat la fiecare 15 minute.
@@ -12,7 +12,7 @@ Rezultatul curent se vede în **[RAPORT.md](RAPORT.md)**, actualizat la fiecare 
 - **Ieșire:** EMA20 trece sub EMA50 sau e atins stop-loss-ul (2 × ATR14, trailing).
 - Lumânări de 15 minute.
 - Costuri incluse: comision 0,40% pe execuție plus slippage 0,05%.
-- Termen de comparație: „buy & hold”, adică 50 € în BTC și 50 € în ETH din prima zi, fără nicio altă mișcare.
+- Termen de comparație: „buy & hold”, adică 500 € în BTC și 500 € în ETH din prima zi, fără nicio altă mișcare.
 
 ## Pornire (o singură dată)
 
