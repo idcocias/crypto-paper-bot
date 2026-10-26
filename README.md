@@ -14,6 +14,16 @@ Rezultatul curent se vede în **[RAPORT.md](RAPORT.md)**, actualizat la fiecare 
 - Costuri incluse: comision 0,40% pe execuție plus slippage 0,05%.
 - Termen de comparație: „buy & hold”, adică 500 € în BTC și 500 € în ETH din prima zi, fără nicio altă mișcare.
 
+## Al doilea bot: AGRESIV (`bot_agresiv.py`)
+
+Rulează în paralel, tot cu 1000 € virtuali. Raportul lui e în **[RAPORT-AGRESIV.md](RAPORT-AGRESIV.md)**.
+
+- Patru monede, câte 250 €: BTC, ETH, SOL și DOGE.
+- Levier simulat 3x, cu poziții long și short.
+- Semnale mai rapide: EMA9/EMA21, cu filtru de trend EMA100. Stop-loss trailing la 1,5 × ATR14.
+- Comisionul se aplică pe toată poziția, cu levier cu tot. Sunt incluse și costul de finanțare și lichidarea.
+- Kill switch: la -70% botul se oprește definitiv.
+
 ## Pornire (o singură dată)
 
 1. Pe github.com creezi un repository nou, **privat**, de exemplu `crypto-paper-bot`.

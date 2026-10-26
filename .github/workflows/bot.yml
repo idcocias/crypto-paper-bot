@@ -23,14 +23,19 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Rulează botul
+      - name: Rulează botul conservator
         run: python bot.py run
 
+      - name: Rulează botul agresiv
+        if: always()
+        run: python bot_agresiv.py run
+
       - name: Salvează starea și raportul
+        if: always()
         run: |
           git config user.name "paper-bot"
           git config user.email "paper-bot@users.noreply.github.com"
-          git add data RAPORT.md
+          git add data RAPORT.md data-agresiv RAPORT-AGRESIV.md || true
           git diff --cached --quiet || git commit -m "bot: actualizare $(date -u +'%Y-%m-%d %H:%M')"
           git pull --rebase --quiet
           git push --quiet
