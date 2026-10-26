@@ -1,0 +1,28 @@
+{
+  "started_at": 1792994400,
+  "ends_at": 1795586400,
+  "finished": false,
+  "benchmark_start_prices": {
+    "BTC": 71311.8,
+    "ETH": 2065.07
+  },
+  "pairs": {
+    "BTC": {
+      "cash": 50.0,
+      "qty": 0.0,
+      "entry": null,
+      "stop": null,
+      "entry_ts": null,
+      "last_ts": 1792994400
+    },
+    "ETH": {
+      "cash": 50.0,
+      "qty": 0.0,
+      "entry": null,
+      "stop": null,
+      "entry_ts": null,
+      "last_ts": 1792994400
+    }
+  },
+  "fees_paid": 0.0
+}
