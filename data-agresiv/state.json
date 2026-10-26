@@ -1,0 +1,57 @@
+{
+  "started_at": 1792995300,
+  "ends_at": 1795587300,
+  "finished": false,
+  "killed": false,
+  "benchmark_start_prices": {
+    "BTC": 71192.5,
+    "ETH": 2059.75,
+    "SOL": 89.67,
+    "DOGE": 0.0683254
+  },
+  "fees_paid": 0.0,
+  "funding_paid": 0.0,
+  "liquidations": 0,
+  "pairs": {
+    "BTC": {
+      "cash": 250.0,
+      "side": 0,
+      "qty": 0.0,
+      "entry": null,
+      "margin": 0.0,
+      "stop": null,
+      "liq": null,
+      "last_ts": 1792995300
+    },
+    "ETH": {
+      "cash": 250.0,
+      "side": 0,
+      "qty": 0.0,
+      "entry": null,
+      "margin": 0.0,
+      "stop": null,
+      "liq": null,
+      "last_ts": 1792995300
+    },
+    "SOL": {
+      "cash": 250.0,
+      "side": 0,
+      "qty": 0.0,
+      "entry": null,
+      "margin": 0.0,
+      "stop": null,
+      "liq": null,
+      "last_ts": 1792995300
+    },
+    "DOGE": {
+      "cash": 250.0,
+      "side": 0,
+      "qty": 0.0,
+      "entry": null,
+      "margin": 0.0,
+      "stop": null,
+      "liq": null,
+      "last_ts": 1792995300
+    }
+  }
+}
