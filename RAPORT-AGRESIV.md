@@ -1,13 +1,13 @@
 # Raport — bot AGRESIV (levier 3x, long/short, 4 monede)
 
-**Stare:** în curs — ziua 1.3 din 30  
+**Stare:** în curs — ziua 1.6 din 30  
 **Perioadă:** 2026-10-26 06:15 → 2026-11-25 06:15 UTC  
-**Actualizat:** 2026-10-27 14:38 UTC
+**Actualizat:** 2026-10-27 19:39 UTC
 
 | | Valoare | Rezultat |
 |---|---:|---:|
 | Bot agresiv | 826.25 € | -173.75 € (-17.4%) |
-| Buy & hold (BTC/ETH/SOL/DOGE, câte 25%) | 1006.05 € | +6.05 € (+0.6%) |
+| Buy & hold (BTC/ETH/SOL/DOGE, câte 25%) | 1013.41 € | +13.41 € (+1.3%) |
 
 - Tranzacții închise: **23**, câștigătoare: **0** (0%)
 - Lichidări: **0**
