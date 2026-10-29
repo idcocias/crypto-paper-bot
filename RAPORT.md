@@ -1,13 +1,13 @@
 # Raport — bot paper trading crypto
 
-**Stare:** în curs — ziua 3.0 din 30  
+**Stare:** în curs — ziua 3.3 din 30  
 **Perioadă:** 2026-10-26 06:00 → 2026-11-25 06:00 UTC  
-**Actualizat:** 2026-10-29 06:30 UTC
+**Actualizat:** 2026-10-29 13:44 UTC
 
 | | Valoare | Rezultat |
 |---|---:|---:|
 | Bot | 979.85 € | -20.15 € (-2.0%) |
-| Buy & hold (50% BTC / 50% ETH) | 1002.56 € | +2.56 € (+0.3%) |
+| Buy & hold (50% BTC / 50% ETH) | 1007.24 € | +7.24 € (+0.7%) |
 
 - Tranzacții închise: **3**, câștigătoare: **0** (0%)
 - Comisioane plătite: **11.90 €**
