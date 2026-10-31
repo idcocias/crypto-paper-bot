@@ -109,3 +109,4 @@ timp_utc,moneda,actiune,pret,cantitate,valoare_pozitie_eur,comision_eur,motiv,pn
 2026-10-31 14:45,SOL,INCHIDE SHORT,85.946384,7.324394,629.51,2.518,stop-loss,-5.5357
 2026-10-31 15:15,SOL,LONG,86.03595,7.00347,602.55,2.4395,"EMA9 peste EMA21, trend sus",
 2026-10-31 17:00,SOL,INCHIDE LONG,85.662146,7.00347,599.93,2.3997,stop-loss,-5.0177
+2026-10-31 20:00,SOL,SHORT,85.65426,6.776175,580.41,2.3498,"EMA9 sub EMA21, trend jos",
