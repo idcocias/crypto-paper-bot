@@ -8,12 +8,12 @@
   },
   "pairs": {
     "BTC": {
-      "cash": 482.57366030014873,
-      "qty": 0.0,
-      "entry": null,
-      "stop": null,
-      "entry_ts": null,
-      "last_ts": 1793552400
+      "cash": 0.0,
+      "qty": 0.006878024171384081,
+      "entry": 69881.02305,
+      "stop": 69673.59195472569,
+      "entry_ts": 1793565900,
+      "last_ts": 1793566800
     },
     "ETH": {
       "cash": 487.54714169546014,
@@ -21,8 +21,8 @@
       "entry": null,
       "stop": null,
       "entry_ts": null,
-      "last_ts": 1793552400
+      "last_ts": 1793566800
     }
   },
-  "fees_paid": 19.714229738306585
+  "fees_paid": 21.644524379507182
 }
