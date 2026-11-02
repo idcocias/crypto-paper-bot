@@ -14,3 +14,4 @@ timp_utc,moneda,actiune,pret,cantitate,valoare_eur,comision_eur,motiv,pnl_eur
 2026-11-01 21:45,ETH,CUMPARA,2038.32,0.23823407,487.55,1.9502,"EMA20 peste EMA50, trend sus",
 2026-11-01 22:00,ETH,VINDE,2029.43,0.23823407,483.48,1.9339,stop-loss,-4.0503
 2026-11-01 23:15,ETH,CUMPARA,2031.62,0.23607837,481.55,1.9262,"EMA20 peste EMA50, trend sus",
+2026-11-02 04:45,ETH,VINDE,2052.05,0.23607837,484.45,1.9378,stop-loss,2.8868
