@@ -1,16 +1,16 @@
 # Raport — bot paper trading crypto
 
-**Stare:** în curs — ziua 8.0 din 30  
+**Stare:** în curs — ziua 8.4 din 30  
 **Perioadă:** 2026-10-26 06:00 → 2026-11-25 06:00 UTC  
-**Actualizat:** 2026-11-03 06:48 UTC
+**Actualizat:** 2026-11-03 14:53 UTC
 
 | | Valoare | Rezultat |
 |---|---:|---:|
-| Bot | 960.73 € | -39.27 € (-3.9%) |
-| Buy & hold (50% BTC / 50% ETH) | 961.40 € | -38.60 € (-3.9%) |
+| Bot | 959.34 € | -40.66 € (-4.1%) |
+| Buy & hold (50% BTC / 50% ETH) | 974.48 € | -25.52 € (-2.6%) |
 
-- Tranzacții închise: **8**, câștigătoare: **1** (12%)
-- Comisioane plătite: **31.31 €**
+- Tranzacții închise: **9**, câștigătoare: **2** (22%)
+- Comisioane plătite: **35.18 €**
 
 ## Poziții deschise
 
@@ -20,6 +20,8 @@ Niciuna — botul e pe cash.
 
 | Timp (UTC) | Monedă | Acțiune | Preț | Motiv | P/L |
 |---|---|---|---:|---|---:|
+| 2026-11-03 14:00 | ETH | VINDE | 2035.05 | stop-loss | 0.5404 |
+| 2026-11-03 09:45 | ETH | CUMPARA | 2024.63 | EMA20 peste EMA50, trend sus |  |
 | 2026-11-02 04:45 | ETH | VINDE | 2052.05 | stop-loss | 2.8868 |
 | 2026-11-01 23:15 | ETH | CUMPARA | 2031.62 | EMA20 peste EMA50, trend sus |  |
 | 2026-11-01 22:00 | ETH | VINDE | 2029.43 | stop-loss | -4.0503 |
@@ -33,7 +35,5 @@ Niciuna — botul e pe cash.
 | 2026-10-28 20:15 | ETH | VINDE | 2108.11 | stop-loss | -5.71 |
 | 2026-10-28 19:45 | ETH | CUMPARA | 2124.03 | EMA20 peste EMA50, trend sus |  |
 | 2026-10-28 20:15 | BTC | VINDE | 72681.43 | stop-loss | -4.921 |
-| 2026-10-28 19:45 | BTC | CUMPARA | 73121.34 | EMA20 peste EMA50, trend sus |  |
-| 2026-10-27 01:15 | BTC | VINDE | 71525.63 | stop-loss | -3.5407 |
 
 _Simulare. Nicio tranzacție reală nu a fost plasată._
