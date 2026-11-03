@@ -21,7 +21,7 @@
       "margin": 0.0,
       "stop": null,
       "liq": null,
-      "last_ts": 1793716200
+      "last_ts": 1793737800
     },
     "ETH": {
       "cash": 121.55226905783513,
@@ -31,7 +31,7 @@
       "margin": 0.0,
       "stop": null,
       "liq": null,
-      "last_ts": 1793716200
+      "last_ts": 1793737800
     },
     "SOL": {
       "cash": 148.89444836055787,
@@ -41,7 +41,7 @@
       "margin": 0.0,
       "stop": null,
       "liq": null,
-      "last_ts": 1793716200
+      "last_ts": 1793737800
     },
     "DOGE": {
       "cash": 125.45313709715717,
@@ -51,7 +51,7 @@
       "margin": 0.0,
       "stop": null,
       "liq": null,
-      "last_ts": 1793716200
+      "last_ts": 1793737800
     }
   }
 }
