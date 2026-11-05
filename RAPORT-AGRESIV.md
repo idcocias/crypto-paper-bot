@@ -1,17 +1,17 @@
 # Raport — bot AGRESIV (levier 3x, long/short, 4 monede)
 
-**Stare:** în curs — ziua 9.6 din 30  
+**Stare:** în curs — ziua 9.8 din 30  
 **Perioadă:** 2026-10-26 06:15 → 2026-11-25 06:15 UTC  
-**Actualizat:** 2026-11-04 21:33 UTC
+**Actualizat:** 2026-11-05 01:50 UTC
 
 | | Valoare | Rezultat |
 |---|---:|---:|
-| Bot agresiv | 520.86 € | -479.14 € (-47.9%) |
-| Buy & hold (BTC/ETH/SOL/DOGE, câte 25%) | 991.71 € | -8.29 € (-0.8%) |
+| Bot agresiv | 514.35 € | -485.65 € (-48.6%) |
+| Buy & hold (BTC/ETH/SOL/DOGE, câte 25%) | 996.31 € | -3.69 € (-0.4%) |
 
-- Tranzacții închise: **101**, câștigătoare: **12** (12%)
+- Tranzacții închise: **102**, câștigătoare: **12** (12%)
 - Lichidări: **0**
-- Comisioane: **444.52 €**, finanțare: **1.17 €**
+- Comisioane: **447.81 €**, finanțare: **1.17 €**
 
 ## Poziții deschise
 
@@ -21,6 +21,8 @@ Niciuna — botul e pe cash.
 
 | Timp (UTC) | Monedă | Acțiune | Preț | Motiv | P/L |
 |---|---|---|---:|---|---:|
+| 2026-11-04 23:00 | SOL | INCHIDE LONG | 84.873829 | stop-loss | -4.8427 |
+| 2026-11-04 22:30 | SOL | LONG | 85.54546 | EMA9 peste EMA21, trend sus |  |
 | 2026-11-04 15:15 | DOGE | INCHIDE LONG | 0.068771 | stop-loss | 3.8079 |
 | 2026-11-04 14:30 | DOGE | LONG | 0.067758 | EMA9 peste EMA21, trend sus |  |
 | 2026-11-04 13:15 | DOGE | INCHIDE SHORT | 0.06649 | stop-loss | -2.5175 |
@@ -34,7 +36,5 @@ Niciuna — botul e pe cash.
 | 2026-11-04 05:15 | ETH | LONG | 2029.75773 | EMA9 peste EMA21, trend sus |  |
 | 2026-11-04 05:15 | BTC | LONG | 68911.6428 | EMA9 peste EMA21, trend sus |  |
 | 2026-11-04 00:45 | DOGE | INCHIDE SHORT | 0.066446 | stop-loss | -1.9641 |
-| 2026-11-04 00:15 | DOGE | SHORT | 0.066361 | EMA9 sub EMA21, trend jos |  |
-| 2026-11-04 00:45 | SOL | INCHIDE SHORT | 82.43288 | stop-loss | -0.6159 |
 
 _Simulare. Nicio tranzacție reală nu a fost plasată._
