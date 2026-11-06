@@ -1,8 +1,8 @@
 # Raport — bot paper trading crypto
 
-**Stare:** în curs — ziua 11.2 din 30  
+**Stare:** în curs — ziua 11.5 din 30  
 **Perioadă:** 2026-10-26 06:00 → 2026-11-25 06:00 UTC  
-**Actualizat:** 2026-11-06 11:21 UTC
+**Actualizat:** 2026-11-06 18:15 UTC
 
 | | Valoare | Rezultat |
 |---|---:|---:|

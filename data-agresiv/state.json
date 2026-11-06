@@ -9,39 +9,39 @@
     "SOL": 89.67,
     "DOGE": 0.0683254
   },
-  "fees_paid": 492.3814371060413,
-  "funding_paid": 1.2655833556062086,
+  "fees_paid": 499.1877553651823,
+  "funding_paid": 1.2728703844766003,
   "liquidations": 0,
   "pairs": {
     "BTC": {
-      "cash": 115.75694281353084,
+      "cash": 110.90016520956046,
       "side": 0,
       "qty": 0.0,
       "entry": null,
       "margin": 0.0,
       "stop": null,
       "liq": null,
-      "last_ts": 1793962800
+      "last_ts": 1793988000
     },
     "ETH": {
-      "cash": 110.64448757383882,
+      "cash": 105.1431698072679,
       "side": 0,
       "qty": 0.0,
       "entry": null,
       "margin": 0.0,
       "stop": null,
       "liq": null,
-      "last_ts": 1793962800
+      "last_ts": 1793988000
     },
     "SOL": {
-      "cash": 115.46343687371824,
-      "side": 0,
-      "qty": 0.0,
-      "entry": null,
-      "margin": 0.0,
-      "stop": null,
-      "liq": null,
-      "last_ts": 1793962800
+      "cash": 0.0,
+      "side": -1,
+      "qty": 4.24190444646852,
+      "entry": 80.67924000000001,
+      "margin": 114.07680362244429,
+      "stop": 81.40218254422385,
+      "liq": 104.88301200000001,
+      "last_ts": 1793988000
     },
     "DOGE": {
       "cash": 108.7892873183359,
@@ -51,7 +51,7 @@
       "margin": 0.0,
       "stop": null,
       "liq": null,
-      "last_ts": 1793962800
+      "last_ts": 1793988000
     }
   }
 }
