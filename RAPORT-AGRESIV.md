@@ -1,29 +1,28 @@
 # Raport — bot AGRESIV (levier 3x, long/short, 4 monede)
 
-**Stare:** în curs — ziua 13.6 din 30  
+**Stare:** în curs — ziua 13.8 din 30  
 **Perioadă:** 2026-10-26 06:15 → 2026-11-25 06:15 UTC  
-**Actualizat:** 2026-11-08 21:19 UTC
+**Actualizat:** 2026-11-09 01:08 UTC
 
 | | Valoare | Rezultat |
 |---|---:|---:|
-| Bot agresiv | 322.78 € | -677.22 € (-67.7%) |
-| Buy & hold (BTC/ETH/SOL/DOGE, câte 25%) | 931.90 € | -68.10 € (-6.8%) |
+| Bot agresiv | 333.58 € | -666.42 € (-66.6%) |
+| Buy & hold (BTC/ETH/SOL/DOGE, câte 25%) | 912.43 € | -87.57 € (-8.8%) |
 
-- Tranzacții închise: **156**, câștigătoare: **13** (8%)
+- Tranzacții închise: **158**, câștigătoare: **15** (9%)
 - Lichidări: **0**
-- Comisioane: **583.85 €**, finanțare: **1.40 €**
+- Comisioane: **585.62 €**, finanțare: **1.40 €**
 
 ## Poziții deschise
 
-| Monedă | Direcție | Intrare | Acum | Stop | Lichidare | P/L nerealizat |
-|---|---|---:|---:|---:|---:|---:|
-| SOL | SHORT | 79.8001 | 79.8900 | 80.1331 | 103.7402 | -0.22 € |
-| DOGE | SHORT | 0.0638 | 0.0637 | 0.0639 | 0.0829 | +0.26 € |
+Niciuna — botul e pe cash.
 
 ## Ultimele tranzacții
 
 | Timp (UTC) | Monedă | Acțiune | Preț | Motiv | P/L |
 |---|---|---|---:|---|---:|
+| 2026-11-08 22:00 | DOGE | INCHIDE SHORT | 0.061822 | stop-loss | 6.8472 |
+| 2026-11-08 22:00 | SOL | INCHIDE SHORT | 77.892006 | stop-loss | 3.9904 |
 | 2026-11-08 20:30 | DOGE | SHORT | 0.063769 | EMA9 sub EMA21, trend jos |  |
 | 2026-11-08 19:15 | DOGE | INCHIDE LONG | 0.063777 | stop-loss | -2.4025 |
 | 2026-11-08 18:30 | DOGE | LONG | 0.064099 | EMA9 peste EMA21, trend sus |  |
@@ -37,7 +36,5 @@
 | 2026-11-08 17:00 | DOGE | SHORT | 0.063495 | EMA9 sub EMA21, trend jos |  |
 | 2026-11-08 14:45 | DOGE | INCHIDE SHORT | 0.064107 | stop-loss | -3.1772 |
 | 2026-11-08 14:30 | DOGE | SHORT | 0.063666 | EMA9 sub EMA21, trend jos |  |
-| 2026-11-08 16:45 | SOL | SHORT | 79.77015 | EMA9 sub EMA21, trend jos |  |
-| 2026-11-08 16:30 | SOL | INCHIDE LONG | 80.149297 | stop-loss | -1.7355 |
 
 _Simulare. Nicio tranzacție reală nu a fost plasată._
