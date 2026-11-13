@@ -2,12 +2,12 @@
 
 **Stare:** OPRIT de kill switch (-70%)  
 **Perioadă:** 2026-10-26 06:15 → 2026-11-25 06:15 UTC  
-**Actualizat:** 2026-11-13 16:58 UTC
+**Actualizat:** 2026-11-13 22:29 UTC
 
 | | Valoare | Rezultat |
 |---|---:|---:|
 | Bot agresiv | 296.84 € | -703.16 € (-70.3%) |
-| Buy & hold (BTC/ETH/SOL/DOGE, câte 25%) | 842.33 € | -157.67 € (-15.8%) |
+| Buy & hold (BTC/ETH/SOL/DOGE, câte 25%) | 835.73 € | -164.27 € (-16.4%) |
 
 - Tranzacții închise: **174**, câștigătoare: **18** (10%)
 - Lichidări: **0**
