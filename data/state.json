@@ -13,16 +13,16 @@
       "entry": null,
       "stop": null,
       "entry_ts": null,
-      "last_ts": 1794835800
+      "last_ts": 1794869100
     },
     "ETH": {
-      "cash": 479.6839997479563,
+      "cash": 469.2204270929015,
       "qty": 0.0,
       "entry": null,
       "stop": null,
       "entry_ts": null,
-      "last_ts": 1794835800
+      "last_ts": 1794869100
     }
   },
-  "fees_paid": 42.843335026732326
+  "fees_paid": 46.64649041163942
 }
