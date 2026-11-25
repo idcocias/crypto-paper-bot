@@ -1,7 +1,7 @@
 {
   "started_at": 1792995300,
   "ends_at": 1795587300,
-  "finished": false,
+  "finished": true,
   "killed": true,
   "benchmark_start_prices": {
     "BTC": 71192.5,
