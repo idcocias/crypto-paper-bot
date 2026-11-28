@@ -2,12 +2,12 @@
 
 **Stare:** ÎNCHEIAT  
 **Perioadă:** 2026-10-26 06:00 → 2026-11-25 06:00 UTC  
-**Actualizat:** 2026-11-27 21:53 UTC
+**Actualizat:** 2026-11-28 03:45 UTC
 
 | | Valoare | Rezultat |
 |---|---:|---:|
 | Bot | 898.98 € | -101.02 € (-10.1%) |
-| Buy & hold (50% BTC / 50% ETH) | 748.46 € | -251.54 € (-25.2%) |
+| Buy & hold (50% BTC / 50% ETH) | 749.05 € | -250.95 € (-25.1%) |
 
 - Tranzacții închise: **19**, câștigătoare: **4** (21%)
 - Comisioane plătite: **72.42 €**
